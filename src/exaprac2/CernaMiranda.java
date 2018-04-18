@@ -19,7 +19,7 @@ public class CernaMiranda {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-            
+   int prueba;         
                String productos[]=new String[2]; 
                int cantidad[]=new int[2];
                double precio[]=new double[2];
